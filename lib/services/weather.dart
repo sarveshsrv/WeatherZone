@@ -46,13 +46,13 @@ class WeatherModel {
 
   String getMessage(int temp) {
     if (temp > 25) {
-      return 'It\'s 🍦 time';
+      return 'It\'s 🍦 time.Enjoy :)';
     } else if (temp > 20) {
-      return 'Time for shorts and 👕';
+      return 'Time for shorts and 👕.Enjoy:)';
     } else if (temp < 10) {
       return 'You\'ll need 🧣 and 🧤';
     } else {
-      return 'Bring a 🧥 just in case';
+      return 'Bring a 🧥 just in case ;(';
     }
   }
 }
