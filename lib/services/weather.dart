@@ -1,6 +1,8 @@
 import 'package:WeatherZone/services/location.dart';
 import 'package:WeatherZone/services/networking.dart';
 
+//http://api.openweathermap.org/data/2.5/weather?q=London&appid=265464f34067595a990e0236f895a0ab#
+//http://api.openweathermap.org/data/2.5/group?id=524901,703448,2643743&appid=265464f34067595a990e0236f895a0ab#
 const apiKey = '265464f34067595a990e0236f895a0ab';
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
 
