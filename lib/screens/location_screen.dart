@@ -76,6 +76,7 @@ class _LocationScreenState extends State<LocationScreen> {
                     ),
                   ),
                   FlatButton(
+                    padding: EdgeInsets.all(20),
                     onPressed: () async {
                       var typedName = await Navigator.push(
                         context,
