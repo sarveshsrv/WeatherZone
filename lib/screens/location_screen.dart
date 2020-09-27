@@ -50,7 +50,7 @@ class _LocationScreenState extends State<LocationScreen> {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('images/forest.jpg'),
+            image: AssetImage('images/city3.jpg'),
             fit: BoxFit.cover,
             colorFilter: ColorFilter.mode(
                 Colors.white.withOpacity(0.8), BlendMode.dstATop),
@@ -71,7 +71,7 @@ class _LocationScreenState extends State<LocationScreen> {
                       updateUI(weatherData);
                     },
                     child: Icon(
-                      Icons.near_me,
+                      Icons.home,
                       size: 50.0,
                     ),
                   ),
@@ -92,18 +92,25 @@ class _LocationScreenState extends State<LocationScreen> {
                       }
                     },
                     child: Icon(
-                      Icons.location_city,
+                      Icons.search,
                       size: 50.0,
                     ),
                   ),
                 ],
               ),
-              Padding(
-                padding: EdgeInsets.only(left: 15.0),
+              Container(
+                margin: EdgeInsets.all(20),
+                padding: EdgeInsets.all(15),
+                decoration: BoxDecoration(
+                  //color: Colors.blueGrey,
+                  borderRadius: BorderRadius.circular(15.0),
+                ),
                 child: Row(
                   children: <Widget>[
                     Text(
                       '$temperature°',
+                      //
+                      textAlign: TextAlign.center,
                       style: kTempTextStyle,
                     ),
                     Text(
@@ -113,11 +120,16 @@ class _LocationScreenState extends State<LocationScreen> {
                   ],
                 ),
               ),
-              Padding(
-                padding: EdgeInsets.only(right: 15.0),
+              Container(
+                decoration: BoxDecoration(
+                  color: Colors.blueGrey,
+                  borderRadius: BorderRadius.circular(15.0),
+                ),
+                margin: EdgeInsets.all(20),
+                padding: EdgeInsets.all(10),
                 child: Text(
-                  '$weatherMessage in $cityName',
-                  textAlign: TextAlign.right,
+                  '$weatherMessage in $cityName.',
+                  textAlign: TextAlign.center,
                   style: kMessageTextStyle,
                 ),
               ),
