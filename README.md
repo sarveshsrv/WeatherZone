@@ -16,6 +16,6 @@ A Flutter project to find out the live weather data in the current location of t
 <img src="images/ss5.png" width="25%"/> -->
 ## Screenshots
 
-  | Home Page                                                    | Search Page                                                 | Search Result                                                 | Search Result                                                 |
+  | Home Page                                                    | Search Page                                                 | Search Result                                                 |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img src="images/ss1.png" width=160 alt="Home Page"> | <img src="images/ss3.png" width=160 alt="Search Page"> | <img src="images/ss4.png" width=160 alt="Search Result"> | <img src="images/ss5.png" width=160 alt="Navigation Drawer"> |
+| <img src="images/ss1.png" width=190 alt="Home Page"> | <img src="images/ss3.png" width=190 alt="Search Page"> | <img src="images/ss4.png" width=190 alt="Search Result"> |
