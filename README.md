@@ -7,10 +7,15 @@ A Flutter project to find out the live weather data in the current location of t
 # framework
 ~ Flutter framework
 
-# Snapshots
+<!-- # Snapshots
 
 <img src="images/ss1.png" width="25%"/>
 <img src="images/ss2.png" width="25%"/>
 <img src="images/ss3.png" width="25%"/>
 <img src="images/ss4.png" width="25%"/>
-<img src="images/ss5.png" width="25%"/>
+<img src="images/ss5.png" width="25%"/> -->
+## Screenshots
+
+  | Home Page                                                    | Category Screen                                                 | Navigation Drawer                                                 |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| <img src="images/ss1.png" width=200 alt="Home Page"> | <img src="images/ss2.png" width=200 alt="Category Screen"> | <img src="images/ss3.png" width=200 alt="Navigation Drawer"> | <img src="images/ss4.png" width=200 alt="Navigation Drawer"> | <img src="images/ss5.png" width=200 alt="Navigation Drawer"> |
