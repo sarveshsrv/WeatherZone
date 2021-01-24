@@ -4,6 +4,9 @@ A Flutter project to find out the live weather data in the current location of t
 
 ~This project includes Geolocator package to get live location data for both iOS and Android.
 
+
+# Weather Api: https://home.openweathermap.org/api_keys
+
 # framework
 ~ Flutter framework
 
