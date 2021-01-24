@@ -33,7 +33,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
       body: Center(
         child: SpinKitFoldingCube(
           color: Colors.white,
-          size: 100.0,
+          size: 110.0,
         ),
       ),
     );
