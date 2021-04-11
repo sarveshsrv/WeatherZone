@@ -29,7 +29,5 @@ A Flutter project to find out the live weather data in the current location of t
 | <img src="images/ss1.png" width=190 alt="Home Page"> | <img src="images/ss3.png" width=190 alt="Search Page"> | <img src="images/ss4.png" width=190 alt="Search Result"> |
 
 
-<img src="/images/demo.gif" width="250" height="475"/>
-
 
 
