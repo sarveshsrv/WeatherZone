@@ -25,4 +25,5 @@ A Flutter project to find out the live weather data in the current location of t
 
 
 https://user-images.githubusercontent.com/43759182/114301636-5f2d7380-9ae3-11eb-9cf5-4abafda808cd.mp4
+![Demo image](/images/Weather Zone Preview.gif)
 
