@@ -26,7 +26,7 @@ A Flutter project to find out the live weather data in the current location of t
 
 ![](/images/demo.gif)
 
-<img src="/images/demo.gif" width="250" height="250"/>
+<img src="/images/demo.gif" width="250" height="450"/>
 
 https://user-images.githubusercontent.com/43759182/114301636-5f2d7380-9ae3-11eb-9cf5-4abafda808cd.mp4
 
