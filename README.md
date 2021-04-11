@@ -17,6 +17,11 @@ A Flutter project to find out the live weather data in the current location of t
 <img src="images/ss3.png" width="25%"/>
 <img src="images/ss4.png" width="25%"/>
 <img src="images/ss5.png" width="25%"/> -->
+
+## Video Preview
+
+<img src="/images/demo.gif" width="250" height="475"/>
+
 ## Screenshots
 
   | Home Page                                                    | Search Page                                                 | Search Result                                                 |
@@ -24,10 +29,7 @@ A Flutter project to find out the live weather data in the current location of t
 | <img src="images/ss1.png" width=190 alt="Home Page"> | <img src="images/ss3.png" width=190 alt="Search Page"> | <img src="images/ss4.png" width=190 alt="Search Result"> |
 
 
-![](/images/demo.gif)
+<img src="/images/demo.gif" width="250" height="475"/>
 
-<img src="/images/demo.gif" width="250" height="450"/>
-
-https://user-images.githubusercontent.com/43759182/114301636-5f2d7380-9ae3-11eb-9cf5-4abafda808cd.mp4
 
 
