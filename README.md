@@ -16,7 +16,12 @@ A Flutter project to find out the live weather data in the current location of t
 <img src="images/ss2.png" width="25%"/>
 <img src="images/ss3.png" width="25%"/>
 <img src="images/ss4.png" width="25%"/>
-<img src="images/ss5.png" width="25%"/> -->
+<img src="images/ss5.png" width="25%"/>
+<img src="images/HomePage.jpeg" width="25%"/>
+<img src="images/ClearSky.jpeg" width="25%"/>
+<img src="images/BrokenClouds.jpeg" width="25%"/>
+<img src="images/FewClouds.jpeg" width="25%"/>
+<img src="images/ModerateRain.jpeg" width="25%"/> -->
 
 ## Video Preview
 
@@ -24,9 +29,9 @@ A Flutter project to find out the live weather data in the current location of t
 
 ## Screenshots
 
-  | Home Page                                                    | Search Page                                                 | Search Result                                                 |
+  | Home Page                                                    | Search Result                                                 | Search Result                                                 |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img src="images/ss1.png" width=190 alt="Home Page"> | <img src="images/ss3.png" width=190 alt="Search Page"> | <img src="images/ss4.png" width=190 alt="Search Result"> |
+| <img src="images/HomePage.jpeg" width=190 alt="Home Page"> | <img src="images/ClearSky.jpeg" width=190 alt="Search Result"> | <img src="images/BrokenClouds.jpeg" width=190 alt="Search Result"> |
 
 
 
