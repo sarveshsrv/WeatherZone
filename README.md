@@ -29,9 +29,9 @@ A Flutter project to find out the live weather data in the current location of t
 
 ## Screenshots
 
-  | Home Page                                                    | Search Result                                                 | Search Result                                                 |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img src="images/HomePage.jpeg" width=190 alt="Home Page"> | <img src="images/ClearSky.jpeg" width=190 alt="Search Result"> | <img src="images/BrokenClouds.jpeg" width=190 alt="Search Result"> |
+  | Home Page                                                    | Search Result                                                 | Search Result                                                 | Search Result                                                 |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------|
+| <img src="images/HomePage.jpeg" width=190 alt="Home Page"> | <img src="images/ClearSky.jpeg" width=190 alt="Search Result"> | <img src="images/BrokenClouds.jpeg" width=190 alt="Search Result"> | <img src="images/BrokenClouds.jpeg" width=190 alt="Search Result"> |
 
 
 
