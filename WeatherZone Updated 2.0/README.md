@@ -36,11 +36,7 @@ f) Sun Rise and Sun Set
 
 <img src="/images/demo.gif" width="250" height="475"/>
 
-## Screenshots
 
-  | Home Page                                                    | Search Result                                                 | Search Result                                                 | Search Result                                                 |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------|
-| <img src="images/HomePage.jpeg" width=190 alt="Home Page"> | <img src="images/ClearSky.jpeg" width=190 alt="Search Result"> | <img src="images/BrokenClouds.jpeg" width=190 alt="Search Result"> | <img src="images/ModerateRain.jpeg" width=190 alt="Search Result"> |
 
 
 
