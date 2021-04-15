@@ -1,13 +1,47 @@
-## Flutter Weather App
 
-This app is integrated with the OpenWeatherMap API to fetch the weather conditions of different cities around the world.
+# WeatherZone
+(This updated version has new UI.)
 
-### Screenshots
+A Flutter project to find out the live weather data in the current location of the device as well as the weather for any city which we want.
+The detailed report of a place includes :
+a) Current Temperature
+b) Maximum and Minimum Temperature
+c) Air pressure
+d) Humidity
+e) Visibility
+f) Sun Rise and Sun Set
 
-![bengaluru_weather](https://user-images.githubusercontent.com/48543567/91748030-e70ddf80-ebdc-11ea-84a0-00d6686e5350.png)
+~This project includes Geolocator package to get live location data for both iOS and Android.
 
-![chennai_weather](https://user-images.githubusercontent.com/48543567/91748060-f2610b00-ebdc-11ea-8771-d4c428b9a72d.png)
 
-![hyderabad_weather](https://user-images.githubusercontent.com/48543567/91748076-f8ef8280-ebdc-11ea-9ca2-c8f6a40f56a2.png)
+## Weather Api: https://home.openweathermap.org/api_keys
+
+# framework
+~ Flutter framework
+
+<!-- # Snapshots
+
+<img src="images/ss1.png" width="25%"/>
+<img src="images/ss2.png" width="25%"/>
+<img src="images/ss3.png" width="25%"/>
+<img src="images/ss4.png" width="25%"/>
+<img src="images/ss5.png" width="25%"/>
+<img src="images/HomePage.jpeg" width="25%"/>
+<img src="images/ClearSky.jpeg" width="25%"/>
+<img src="images/BrokenClouds.jpeg" width="25%"/>
+<img src="images/FewClouds.jpeg" width="25%"/>
+<img src="images/ModerateRain.jpeg" width="25%"/> -->
+
+## Video Preview
+
+<img src="/images/demo.gif" width="250" height="475"/>
+
+## Screenshots
+
+  | Home Page                                                    | Search Result                                                 | Search Result                                                 | Search Result                                                 |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------|
+| <img src="images/HomePage.jpeg" width=190 alt="Home Page"> | <img src="images/ClearSky.jpeg" width=190 alt="Search Result"> | <img src="images/BrokenClouds.jpeg" width=190 alt="Search Result"> | <img src="images/ModerateRain.jpeg" width=190 alt="Search Result"> |
+
+
 
 
